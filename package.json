@@ -1,6 +1,6 @@
 {
-  "name": "stream-browserify",
-  "version": "2.0.2",
+  "name": "stream",
+  "version": "2.0.3",
   "description": "the stream module from node core for browsers",
   "main": "index.js",
   "dependencies": {
@@ -17,9 +17,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/browserify/stream-browserify.git"
+    "url": "git://github.com/olitvin/stream-browserify.git"
   },
-  "homepage": "https://github.com/browserify/stream-browserify",
+  "homepage": "https://github.com/olitvin/stream-browserify",
   "keywords": [
     "stream",
     "browser",
